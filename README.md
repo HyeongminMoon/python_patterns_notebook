@@ -13,6 +13,10 @@
 
 
 ## 행위패턴(Behavioral Patterns)
+| 패턴 | 설명 |
+|:----:|-----|
+| [observer](https://github.com/HyeongminMoon/python_patterns_notebook/blob/main/Behavioral/observer.ipynb) | 객체가 내부에 관찰자를 등록하여 변화가 있을 때 통지하는 패턴 |
+
 
 # reference
 https://github.com/faif/python-patterns/tree/master
